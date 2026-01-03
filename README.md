@@ -1,12 +1,13 @@
- Chocolate Business Website
+Chocolate Business Website
 
-A simple and interactive small business website for a chocolate shop.
-Built using HTML, CSS, and JavaScript.
+A simple small business website for a chocolate shop.
+Built using HTML and CSS.
 
-Features:
+## Features
 - Product listing
-- Order interaction
-- Contact form validation
-- Clean and responsive design
+- Business information sections
+- Clean and responsive user interface
+- Simple and professional layout
 
-Live Demo: https://sampathv37.github.io/chocolate-business/
+## Live Demo
+https://sampathv37.github.io/chocolate-business/
